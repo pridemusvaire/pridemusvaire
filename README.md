@@ -34,7 +34,9 @@ I have experience in most Frontend frameworks and cross-platform mobile Framewor
 ###### 📫 How to reach me: ...
 - [LinkedIn](https://www.linkedin.com/in/pridemusvaire)
 
+<div style="max-width: 400px;margin: 0 auto;">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pridemusvaire)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <!--
 **pridemusvaire/pridemusvaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
