@@ -1,4 +1,4 @@
-### Hi there 👋, thanks for landing on github profile.
+# Hi there 👋, thanks for landing on github profile.
 
 
 <span style="font-family:'Open Sans'; font-size:1.2em;">***My name is Pride, however, I like to call myself Mr. Robot, I’m also the dude that owns the lazydude.co domain.
