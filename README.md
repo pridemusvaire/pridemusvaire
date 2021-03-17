@@ -10,7 +10,7 @@ When I’m not debugging in production you will find me on my Onewheel, please v
 
 
 - 🔭 I’m currently working on ...
-- NextJS
+-- NextJS
 - ReactJS
 - React Native
 - Typescript 
