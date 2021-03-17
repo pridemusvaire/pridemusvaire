@@ -2,11 +2,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pridemusvaire)](https://github.com/anuraghazra/github-readme-stats)
 
-***My name is Pride, however, I like to call myself Mr. Robot, I’m also the dude that owns the lazydude.co domain.
+*** My name is Pride, however, I like to call myself Mr. Robot, I’m also the dude that owns the lazydude.co domain.
 I am a multi-discipline Software Engineer, who’s not afraid to get my hands dirty, I have worked with a lot of technologies some that I’m not proud of .e.g PHP :).
 I have experience in most Frontend frameworks and cross-platform mobile Frameworks (handlebars, knockoutJS, VueJS, AngularJS, Flutter) however ReactJS and React Native have won my heart... probably because Facebook indoctrinated me at [F8](https://developers.facebook.com/blog/post/2019/05/16/F8-2019-hackathon-winners-announced/) 🤓.
 
-***When I’m not debugging in production you will find me on my Onewheel, please visit the link below maybe you will discover something cool, do hit me up for a ride when you get one :)
+*** When I’m not debugging in production you will find me on my Onewheel, please visit the link below maybe you will discover something cool, do hit me up for a ride when you get one :)
 
 [onewheel.com](https://onewheel.com)
 
