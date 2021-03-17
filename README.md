@@ -1,7 +1,7 @@
-# Hi there 👋, thanks for landing on github profile.
+### Hi there 👋, thanks for landing on github profile.
 
 
-<span style="font-family:'Open Sans'; font-size:1.2em;">***My name is Pride, however, I like to call myself Mr. Robot, I’m also the dude that owns the lazydude.co domain.
+<span style="font-family:'Open Sans'; font-size:10px;">***My name is Pride, however, I like to call myself Mr. Robot, I’m also the dude that owns the lazydude.co domain.
 I am a multi-discipline Software Engineer, who’s not afraid to get my hands dirty, I have worked with a lot of technologies some that I’m not proud of .e.g PHP :).
 I have experience in most Frontend frameworks and cross-platform mobile Frameworks (handlebars, knockoutJS, VueJS, AngularJS, Flutter) however ReactJS and React Native have won my heart... probably because Facebook indoctrinated me at [F8](https://developers.facebook.com/blog/post/2019/05/16/F8-2019-hackathon-winners-announced/) 🤓.***</span>
 
