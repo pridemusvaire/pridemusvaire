@@ -39,10 +39,6 @@ I have experience in most Frontend frameworks and cross-platform mobile Framewor
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pridemusvaire&layout=compact" />
 </a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@pridemusvaire&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pridemusvaire&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![alt text](https://scontent-jnb1-1.xx.fbcdn.net/v/t1.0-9/103578871_3005277246257136_5509427942757865670_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeHeUkk2A-DNSEFXHRuiLNGkcwvFVp59R9FzC8VWnn1H0dAsVv83XbKTOE8W3WVFgfdwyNWvgehmzYLaZFhJ5_L-&_nc_ohc=FJuD5ipJVycAX84dAfo&_nc_ht=scontent-jnb1-1.xx&oh=7e7b3aaf8caa71f92740795831a7a98d&oe=607609BB "My Onewheel")
 
 <!--
