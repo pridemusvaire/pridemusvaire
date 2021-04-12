@@ -27,7 +27,7 @@ I have experience in most Frontend frameworks and cross-platform mobile Framewor
 - JavaScript, React, React Native
 
 ###### ⚡ Fun fact: ...
-- I am Geek 🤓 
+- I am a Geek 🤓 
 
 ###### 📫 How to reach me: ...
 - [LinkedIn](https://www.linkedin.com/in/pridemusvaire)
