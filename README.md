@@ -27,11 +27,12 @@ I have experience in most Frontend frameworks and cross-platform mobile Framewor
 - JavaScript, React, React Native
 
 ###### ⚡ Fun fact: ...
-- I am a Geek 🤓 
+- I am a tech addict 🙈  
 
 ###### 📫 How to reach me: ...
 - [LinkedIn](https://www.linkedin.com/in/pridemusvaire)
 
+###### ✨ My Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@pridemusvaire&layout=compact" />
 </a>
