@@ -30,7 +30,12 @@ I have experience in most Frontend frameworks and cross-platform mobile Framewor
 - I am a tech addict 🙈  
 
 ###### 📫 How to reach me: ...
-- [LinkedIn](https://www.linkedin.com/in/pridemusvaire)
+<!-- Connect Badges -->
+<p>
+  <a href="https://www.linkedin.com/in/pridemusvaire">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+  </a>
+</p>
 
 ###### ✨ My Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
