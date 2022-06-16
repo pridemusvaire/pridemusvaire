@@ -23,6 +23,7 @@ I have experience in most Frontend frameworks and cross-platform mobile Framewor
   <img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript%20-%230db7ed.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/shopify%20-%230db7ed.svg?&style=for-the-badge&logo=shopify&logoColor=white" />
 </div>
 - & trying out all the new cool 😎 stuff
 <br />
