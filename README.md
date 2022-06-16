@@ -61,8 +61,7 @@ I have experience in most Frontend frameworks and cross-platform mobile Framewor
 </a>
 
 <br /><br />
-
-![alt text](https://www.facebook.com/photo.php?fbid=3035461703238690&set=pb.100003246692847.-2207520000..&type=3 "My Onewheel")
+<img src="https://scontent-jnb1-1.xx.fbcdn.net/v/t1.6435-9/106457637_3035461719905355_6643513265655760945_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFRnFzuvo1teDNyO15xpT2gRdwl-ao3DLJF3CX5qjcMsjPhrkpgrbXj2Me337_cVph-ncLGoPcqsPiCCLfGplNL&_nc_ohc=T2vYpoHWzMoAX8QBc7x&_nc_ht=scontent-jnb1-1.xx&oh=00_AT-T767GmejSd1fmC1sUV46A23fnGf3OCGJEZHmXF8WEIw&oe=62D15F62" width="200" height="auto"/>
 
 <!--
 **pridemusvaire/pridemusvaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
