@@ -5,11 +5,6 @@ I am a multi-discipline Software Engineer, who’s not afraid to get my hands di
   
 I have experience in most Frontend frameworks and cross-platform mobile Frameworks (handlebars, knockoutJS, VueJS, AngularJS, Flutter) however ReactJS and React Native have won my heart... probably because Facebook indoctrinated me at [F8](https://developers.facebook.com/blog/post/2019/05/16/F8-2019-hackathon-winners-announced/) 🤓.
 
-***When I’m not debugging in production you will find me on my Onewheel, please visit the link below maybe you will discover something cool, do hit me up for a ride when you get one :)***
-
-[onewheel.com](https://onewheel.com)
-
-
 ###### 🔭 I’m currently working on ...
 <div>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
@@ -60,7 +55,12 @@ I have experience in most Frontend frameworks and cross-platform mobile Framewor
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pridemusvaire&layout=compact" />
 </a>
 
-<br /><br />
+<p></p>
+
+***When I’m not debugging in production you will find me on my Onewheel, please visit the link below maybe you will discover something cool, do hit me up for a ride when you get one :)***
+
+[onewheel.com](https://onewheel.com)
+
 <img src="https://scontent-jnb1-1.xx.fbcdn.net/v/t1.6435-9/106457637_3035461719905355_6643513265655760945_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFRnFzuvo1teDNyO15xpT2gRdwl-ao3DLJF3CX5qjcMsjPhrkpgrbXj2Me337_cVph-ncLGoPcqsPiCCLfGplNL&_nc_ohc=T2vYpoHWzMoAX8QBc7x&_nc_ht=scontent-jnb1-1.xx&oh=00_AT-T767GmejSd1fmC1sUV46A23fnGf3OCGJEZHmXF8WEIw&oe=62D15F62" width="200" height="auto"/>
 
 <!--
