@@ -21,7 +21,7 @@ I have experience in most Frontend frameworks and cross-platform mobile Framewor
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker%20-2496ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/shopify-96bf48.svg?&style=for-the-badge&logo=shopify&logoColor=white" />
   <img src="https://img.shields.io/badge/strapi-8c4bff.svg?&style=for-the-badge&logo=strapi&logoColor=white" />
   <img src="https://img.shields.io/badge/google%20cloud-4285f4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white" />
@@ -37,7 +37,9 @@ I have experience in most Frontend frameworks and cross-platform mobile Framewor
 - React Query
 
 ###### 💬 Ask me about ...
-- JavaScript, React, React Native
+- JavaScript
+- React
+- React Native
 
 ###### ⚡ Fun fact: ...
 - I am a tech addict 🙈  
