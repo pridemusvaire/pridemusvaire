@@ -13,7 +13,7 @@ I have experience in most Frontend frameworks and cross-platform mobile Framewor
 ###### 🔭 I’m currently working on ...
 - NextJS
 - React Native
-<details>
+<div>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -22,7 +22,7 @@ I have experience in most Frontend frameworks and cross-platform mobile Framewor
   <img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white" />
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />
-</details>
+</div>
 - & trying out all the new cool 😎 stuff
 <br />
 
