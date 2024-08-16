@@ -9,7 +9,9 @@ I build apps when bored
 
 LVLX
 [App store](https://apps.apple.com/us/app/lvlx/id1632817630)
+
 [Google play](https://play.google.com/store/apps/details?id=com.lvlx)
+
 [Site](https://lvlx.co.za)
 
 Notifiq (work in progress)
