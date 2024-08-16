@@ -5,7 +5,9 @@
 
 ## 🚀 About Me
 
-I'm a multi-disciplinary Software Engineer with a passion for creating innovative and efficient solutions. With experience across various technologies and frameworks, I specialize in React and React Native development. My journey in tech has led me from Facebook's F8 hackathon to building exciting apps that solve real-world problems. Currently, I'm diving into the world of AI, experimenting with LLMs and generative AI to push the boundaries of what's possible in software development.
+I'm a multi-disciplinary Software Engineer with a passion for creating innovative and efficient solutions. With experience across various technologies and frameworks, I specialize in React and React Native development. My journey in tech has led me from Facebook's [F8 hackathon](https://developers.facebook.com/blog/post/2019/05/16/F8-2019-hackathon-winners-announced/) to building exciting apps that solve real-world problems.
+
+As a part-time digital nomad, I thrive on working from diverse, inspiring locations that fuel my creativity. This flexible lifestyle allows me to bring fresh perspectives to my projects and stay inspired in both my work and personal life.
 
 ## 🛠️ Tech Stack
 
@@ -20,8 +22,6 @@ I'm a multi-disciplinary Software Engineer with a passion for creating innovativ
 ![Shopify](https://img.shields.io/badge/-Shopify-96bf48?style=flat-square&logo=shopify&logoColor=white)
 ![Strapi](https://img.shields.io/badge/-Strapi-8c4bff?style=flat-square&logo=strapi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ## 🌟 Featured Projects
 
@@ -40,16 +40,14 @@ Streamlining order notifications
 An exciting new project
 - [Website](https://topix.app/)
 
-## 🧠 AI Experiments
+## 🌿 Open Source Contributions
 
-I'm currently exploring the fascinating world of artificial intelligence, with a focus on:
+I'm passionate about giving back to the developer community. Here are some of my open-source contributions:
 
-- Large Language Models (LLMs)
-- Generative AI applications
-- Integrating AI capabilities into web and mobile apps
-- Ethical AI development and responsible AI practices
+- [Project Name](link-to-project): Brief description of your contribution
+- [Another Project](link-to-project): What you did and its impact
 
-My goal is to leverage these cutting-edge technologies to create more intelligent, responsive, and user-centric applications.
+I believe in the power of open source to drive innovation and improve software quality. If you're working on an interesting open-source project, let's collaborate!
 
 ## 🔭 Current Focus
 
@@ -58,8 +56,8 @@ My goal is to leverage these cutting-edge technologies to create more intelligen
 - Implementing scalable architectures with Next.js
 - Enhancing UI/UX skills
 - Diving deeper into DevOps practices
-- Experimenting with LLMs and generative AI
-- Bridging the gap between traditional app development and AI-powered solutions
+- Contributing to impactful open-source projects
+- Balancing work and travel as a digital nomad
 
 ## 📈 GitHub Stats
 
@@ -75,17 +73,19 @@ My goal is to leverage these cutting-edge technologies to create more intelligen
 I'm always excited to collaborate on innovative projects or discuss the latest in tech. Feel free to reach out if you want to:
 
 - Collaborate on a project
-- Discuss React, React Native, or AI development
-- Chat about the latest in JavaScript or machine learning
-- Explore potential AI integrations in your projects
-- Share Onewheel riding experiences!
+- Discuss React or React Native development
+- Chat about the latest JavaScript trends
+- Explore open-source opportunities
+- Share digital nomad experiences or tips
+- Exchange ideas on balancing work and travel
 
-## 🏄 Fun Fact
+## 🏄 Fun Facts
 
-When I'm not debugging in production or training AI models, you'll find me cruising on my Onewheel. Check out [onewheel.com](https://onewheel.com) and let's go for a ride!
+- When I'm not debugging in production or contributing to open source, you'll find me cruising on my Onewheel. Check out [onewheel.com](https://onewheel.com) and let's go for a ride!
+- As a part-time digital nomad, I've coded from beach cafes, mountain retreats, and bustling city co-working spaces. Each location brings a unique energy to my work!
 
-<img src="[https://scontent-jnb1-1.xx.fbcdn.net/v/t1.6435-9/106457637_3035461719905355_6643513265655760945_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFRnFzuvo1teDNyO15xpT2gRdwl-ao3DLJF3CX5qjcMsjPhrkpgrbXj2Me337_cVph-ncLGoPcqsPiCCLfGplNL&_nc_ohc=T2vYpoHWzMoAX8QBc7x&_nc_ht=scontent-jnb1-1.xx&oh=00_AT-T767GmejSd1fmC1sUV46A23fnGf3OCGJEZHmXF8WEIw&oe=62D15F62](https://scontent.furt2-1.fna.fbcdn.net/v/t1.6435-9/188389861_3961244587327059_2235681756358583330_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=2a1932&_nc_eui2=AeFzgrgiSolEJKdf3Qwz3QD_IyCKrNmTofMjIIqs2ZOh87bl20f6mLPkW06rS8a49mZzPF4_RZJX2boQr-TF7LzD&_nc_ohc=lkcirTNpeYcQ7kNvgGbh7Bl&_nc_ht=scontent.furt2-1.fna&oh=00_AYBzf7b5xDnK0ai25UDcFOAAxtS_IR5taPES12DrjQ5r0g&oe=66E6CA34)" />
+<img src="https://scontent.furt2-1.fna.fbcdn.net/v/t1.6435-9/188389861_3961244587327059_2235681756358583330_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=2a1932&_nc_eui2=AeFzgrgiSolEJKdf3Qwz3QD_IyCKrNmTofMjIIqs2ZOh87bl20f6mLPkW06rS8a49mZzPF4_RZJX2boQr-TF7LzD&_nc_ohc=lkcirTNpeYcQ7kNvgGbh7Bl&_nc_ht=scontent.furt2-1.fna&oh=00_AYBzf7b5xDnK0ai25UDcFOAAxtS_IR5taPES12DrjQ5r0g&oe=66E6CA34" width="200" height="auto"/>
 
 ---
 
-*"The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt*
+*"The only way to do great work is to love what you do." - Steve Jobs*
