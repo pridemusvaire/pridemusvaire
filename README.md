@@ -5,6 +5,24 @@ I am a multi-discipline Software Engineer, who’s not afraid to get my hands di
   
 I have experience in most Frontend frameworks and cross-platform mobile Frameworks (handlebars, knockoutJS, VueJS, AngularJS, Flutter) however ReactJS and React Native have won my heart... probably because Facebook indoctrinated me at [F8](https://developers.facebook.com/blog/post/2019/05/16/F8-2019-hackathon-winners-announced/) 🤓.
 
+I build apps when bored
+
+LVLX
+[App store](https://apps.apple.com/us/app/lvlx/id1632817630)
+[Google play](https://play.google.com/store/apps/details?id=com.lvlx)
+[Site](https://lvlx.co.za)
+
+Notifiq (work in progress)
+[App store](https://apps.apple.com/dk/app/notifiq-orders/id6444159932)
+[Google play](coming soon...)
+[Site](https://notifiq.co/)
+
+TOPix
+[App store](coming soon...)
+[Google play](coming soon...)
+[Site](https://topix.app/)
+coming soon...
+
 ###### 🔭 I’m currently working on ...
 <div>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
