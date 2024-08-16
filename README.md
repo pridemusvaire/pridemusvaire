@@ -40,13 +40,6 @@ Streamlining order notifications
 An exciting new project
 - [Website](https://topix.app/)
 
-## 🌿 Open Source Contributions
-
-I'm passionate about giving back to the developer community. Here are some of my open-source contributions:
-
-- [Project Name](link-to-project): Brief description of your contribution
-- [Another Project](link-to-project): What you did and its impact
-
 I believe in the power of open source to drive innovation and improve software quality. If you're working on an interesting open-source project, let's collaborate!
 
 ## 🔭 Current Focus
