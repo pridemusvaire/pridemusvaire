@@ -84,7 +84,7 @@ I'm always excited to collaborate on innovative projects or discuss the latest i
 - When I'm not debugging in production or contributing to open source, you'll find me cruising on my Onewheel. Check out [onewheel.com](https://onewheel.com) and let's go for a ride!
 - As a part-time digital nomad, I've coded from beach cafes, mountain retreats, and bustling city co-working spaces. Each location brings a unique energy to my work!
 
-<img src="https://scontent.furt2-1.fna.fbcdn.net/v/t1.6435-9/188389861_3961244587327059_2235681756358583330_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=2a1932&_nc_eui2=AeFzgrgiSolEJKdf3Qwz3QD_IyCKrNmTofMjIIqs2ZOh87bl20f6mLPkW06rS8a49mZzPF4_RZJX2boQr-TF7LzD&_nc_ohc=lkcirTNpeYcQ7kNvgGbh7Bl&_nc_ht=scontent.furt2-1.fna&oh=00_AYBzf7b5xDnK0ai25UDcFOAAxtS_IR5taPES12DrjQ5r0g&oe=66E6CA34" width="200" height="auto"/>
+<img src="https://scontent.furt2-1.fna.fbcdn.net/v/t1.6435-9/188389861_3961244587327059_2235681756358583330_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=2a1932&_nc_eui2=AeFzgrgiSolEJKdf3Qwz3QD_IyCKrNmTofMjIIqs2ZOh87bl20f6mLPkW06rS8a49mZzPF4_RZJX2boQr-TF7LzD&_nc_ohc=lkcirTNpeYcQ7kNvgGbh7Bl&_nc_ht=scontent.furt2-1.fna&oh=00_AYBzf7b5xDnK0ai25UDcFOAAxtS_IR5taPES12DrjQ5r0g&oe=66E6CA34" width="100%" height="auto"/>
 
 ---
 
