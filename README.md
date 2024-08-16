@@ -1,70 +1,68 @@
-### Hi there 👋, thanks for landing on github profile.
+# 👋 Hello, I'm Pride (a.k.a. Mr. Robot)
 
-My name is Pride, however, I like to call myself Mr. Robot, I’m also the dude that owns the lazydude.co domain.
-I am a multi-discipline Software Engineer, who’s not afraid to get my hands dirty, I have worked with a lot of technologies some that I’m not proud of .e.g PHP :).
-  
-I have experience in most Frontend frameworks and cross-platform mobile Frameworks (handlebars, knockoutJS, VueJS, AngularJS, Flutter) however ReactJS and React Native have won my heart... probably because Facebook indoctrinated me at [F8](https://developers.facebook.com/blog/post/2019/05/16/F8-2019-hackathon-winners-announced/) 🤓.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pridemusvaire)
+[![Website](https://img.shields.io/badge/Website-lazydude.co-green?style=for-the-badge)](https://lazydude.co)
 
-I build apps for fun :)
+## 🚀 About Me
 
-LVLX
-- [App store](https://apps.apple.com/us/app/lvlx/id1632817630)
-- [Google play](https://play.google.com/store/apps/details?id=com.lvlx)
-- [Site](https://lvlx.co.za)
+I'm a multi-disciplinary Software Engineer with a passion for creating innovative and efficient solutions. With experience across various technologies and frameworks, I specialize in React and React Native development. My journey in tech has led me from Facebook's F8 hackathon to building exciting apps that solve real-world problems. Currently, I'm diving into the world of AI, experimenting with LLMs and generative AI to push the boundaries of what's possible in software development.
 
-Notifiq (work in progress)
-- [App store](https://apps.apple.com/dk/app/notifiq-orders/id6444159932)
-- [Google play](coming soon...)
-- [Site](https://notifiq.co/)
+## 🛠️ Tech Stack
 
-TOPix
-- [App store](coming soon...)
-- [Google play](coming soon...)
-- [Site](https://topix.app/)
+![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-45b8d8?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-593d88?style=flat-square&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![Shopify](https://img.shields.io/badge/-Shopify-96bf48?style=flat-square&logo=shopify&logoColor=white)
+![Strapi](https://img.shields.io/badge/-Strapi-8c4bff?style=flat-square&logo=strapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-###### 🔭 I’m currently working on ...
-<div>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React Native-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-3178c6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/next%20js-000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker%20-2496ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/shopify-96bf48.svg?&style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/strapi-8c4bff.svg?&style=for-the-badge&logo=strapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/google%20cloud-4285f4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-ffca28.svg?&style=for-the-badge&logo=firebase&logoColor=white" />
-</div>
-- & trying out all the new cool 😎 stuff
-<br />
+## 🌟 Featured Projects
 
-###### 🌱 I’m currently learning ...
-- Dev OPS
-- UX/UI
-- React Testing Library
-- React Query
+### LVLX
+A revolutionary fitness app
+- [App Store](https://apps.apple.com/us/app/lvlx/id1632817630)
+- [Google Play](https://play.google.com/store/apps/details?id=com.lvlx)
+- [Website](https://lvlx.co.za)
 
-###### 💬 Ask me about ...
-- JavaScript
-- React
-- React Native
+### Notifiq (Work in Progress)
+Streamlining order notifications
+- [App Store](https://apps.apple.com/dk/app/notifiq-orders/id6444159932)
+- [Website](https://notifiq.co/)
 
-###### ⚡ Fun fact: ...
-- I am a tech addict 🙈  
+### TOPix (Coming Soon)
+An exciting new project
+- [Website](https://topix.app/)
 
-###### 📫 How to reach me: ...
-<!-- Connect Badges -->
-<p>
-  <a href="https://www.linkedin.com/in/pridemusvaire">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-  </a>
-</p>
+## 🧠 AI Experiments
 
-###### ✨ My Stats
+I'm currently exploring the fascinating world of artificial intelligence, with a focus on:
+
+- Large Language Models (LLMs)
+- Generative AI applications
+- Integrating AI capabilities into web and mobile apps
+- Ethical AI development and responsible AI practices
+
+My goal is to leverage these cutting-edge technologies to create more intelligent, responsive, and user-centric applications.
+
+## 🔭 Current Focus
+
+- Mastering React and React Native
+- Exploring advanced TypeScript patterns
+- Implementing scalable architectures with Next.js
+- Enhancing UI/UX skills
+- Diving deeper into DevOps practices
+- Experimenting with LLMs and generative AI
+- Bridging the gap between traditional app development and AI-powered solutions
+
+## 📈 GitHub Stats
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@pridemusvaire&layout=compact" />
 </a>
@@ -72,23 +70,22 @@ TOPix
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pridemusvaire&layout=compact" />
 </a>
 
-<p></p>
+## 💬 Let's Connect!
 
-***When I’m not debugging in production you will find me on my Onewheel, please visit the link below maybe you will discover something cool, do hit me up for a ride when you get one :)***
+I'm always excited to collaborate on innovative projects or discuss the latest in tech. Feel free to reach out if you want to:
 
-[onewheel.com](https://onewheel.com)
+- Collaborate on a project
+- Discuss React, React Native, or AI development
+- Chat about the latest in JavaScript or machine learning
+- Explore potential AI integrations in your projects
+- Share Onewheel riding experiences!
 
-<img src="https://scontent-jnb1-1.xx.fbcdn.net/v/t1.6435-9/106457637_3035461719905355_6643513265655760945_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFRnFzuvo1teDNyO15xpT2gRdwl-ao3DLJF3CX5qjcMsjPhrkpgrbXj2Me337_cVph-ncLGoPcqsPiCCLfGplNL&_nc_ohc=T2vYpoHWzMoAX8QBc7x&_nc_ht=scontent-jnb1-1.xx&oh=00_AT-T767GmejSd1fmC1sUV46A23fnGf3OCGJEZHmXF8WEIw&oe=62D15F62" width="200" height="auto"/>
+## 🏄 Fun Fact
 
-<!--
-**pridemusvaire/pridemusvaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+When I'm not debugging in production or training AI models, you'll find me cruising on my Onewheel. Check out [onewheel.com](https://onewheel.com) and let's go for a ride!
 
-Here are some ideas to get you started:
+<img src="[https://scontent-jnb1-1.xx.fbcdn.net/v/t1.6435-9/106457637_3035461719905355_6643513265655760945_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFRnFzuvo1teDNyO15xpT2gRdwl-ao3DLJF3CX5qjcMsjPhrkpgrbXj2Me337_cVph-ncLGoPcqsPiCCLfGplNL&_nc_ohc=T2vYpoHWzMoAX8QBc7x&_nc_ht=scontent-jnb1-1.xx&oh=00_AT-T767GmejSd1fmC1sUV46A23fnGf3OCGJEZHmXF8WEIw&oe=62D15F62](https://scontent.furt2-1.fna.fbcdn.net/v/t1.6435-9/188389861_3961244587327059_2235681756358583330_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=2a1932&_nc_eui2=AeFzgrgiSolEJKdf3Qwz3QD_IyCKrNmTofMjIIqs2ZOh87bl20f6mLPkW06rS8a49mZzPF4_RZJX2boQr-TF7LzD&_nc_ohc=lkcirTNpeYcQ7kNvgGbh7Bl&_nc_ht=scontent.furt2-1.fna&oh=00_AYBzf7b5xDnK0ai25UDcFOAAxtS_IR5taPES12DrjQ5r0g&oe=66E6CA34)" />
 
+---
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-- 😄 Pronouns: ...
-
--->
+*"The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt*
