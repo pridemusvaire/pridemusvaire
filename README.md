@@ -42,6 +42,15 @@ An exciting new project
 
 I believe in the power of open source to drive innovation and improve software quality. If you're working on an interesting open-source project, let's collaborate!
 
+## 🤖 AI Exploration
+Currently diving deep into LLMs and generative AI:
+
+Developing applications with GPT models
+Experimenting with model fine-tuning
+Exploring ethical implications of AI
+Integrating AI into web and mobile apps
+Automating social media - check my automated instagram profile here
+
 ## 🔭 Current Focus
 
 - Mastering React and React Native
