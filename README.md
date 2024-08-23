@@ -45,11 +45,11 @@ I believe in the power of open source to drive innovation and improve software q
 ## 🤖 AI Exploration
 Currently diving deep into LLMs and generative AI:
 
-Developing applications with GPT models
-Experimenting with model fine-tuning
-Exploring ethical implications of AI
-Integrating AI into web and mobile apps
-Automating social media - [check my automated instagram profile here](https://www.instagram.com/untracked_nomad?igsh=MW5yNzdjd3I4cDh2OQ%3D%3D&utm_source=qr)
+- Developing applications with GPT models
+- Experimenting with model fine-tuning
+- Exploring ethical implications of AI
+- Integrating AI into web and mobile apps
+- Automating social media - [check my automated instagram profile here](https://www.instagram.com/untracked_nomad?igsh=MW5yNzdjd3I4cDh2OQ%3D%3D&utm_source=qr)
 
 ## 🔭 Current Focus
 
